@@ -1,7 +1,17 @@
+/.metadata/
+
+# Eclipse
 .classpath
 .project
-.settings
-.springBeans
-target
-bin
-classes
+.settings/
+
+# Maven
+log/
+target/
+bin/
+
+# Vscode
+.vscode 
+
+#others
+.factorypath
