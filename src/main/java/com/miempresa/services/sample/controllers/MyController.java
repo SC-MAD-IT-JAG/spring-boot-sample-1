@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.RestController;
 import com.miempresa.services.sample.pojos.ResultObjectSample;
 
 @RestController
-public class MiController {
+public class MyController {
 
 	@GetMapping("/")
 	List<ResultObjectSample> firstMethodController() {
